@@ -69,14 +69,17 @@
   <ItemGroup>
     <None Include="Assets/Lava_Flowing_Shader/Shaders/Diffuse_Lava_Distort.shader" />
     <None Include="Assets/Lava_Flowing_Shader/ReadMe.txt" />
+    <None Include="Assets/Classic Columns/PostProcessing/Custom Profiles/PP-Profiles_Readme!.txt" />
     <None Include="Assets/Lava_Flowing_Shader/Shaders/Unlit_Lava_Distort_Transparent.shader" />
     <None Include="Assets/Vefects/Free Fire VFX URP/_ Extra/Shaders/SH_Vefects_Extra_Billboard_01.shader" />
     <None Include="Assets/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Heat_Haze_01.shader" />
     <None Include="Assets/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Particles_Erosion_01.shader" />
+    <None Include="Assets/SimpleSky/ReadMe.txt" />
     <None Include="Assets/Lava_Flowing_Shader/Shaders/Unlit_Lava_Distort.shader" />
     <None Include="Assets/Customizable Skybox/Stylized Sky/Shaders/Stylized Sky.shader" />
     <None Include="Assets/Vefects/Free Fire VFX URP/Shaders/SH_Vefects_VFX_URP_Fire_Flames_01.shader" />
     <None Include="Assets/Vefects/Free Fire VFX URP/_ Extra/Shaders/SH_Vefects_Extra_Grid_01.shader" />
+    <None Include="Assets/Classic Columns/Author&apos;s note!.txt" />
     <None Include="Assets/Lava_Flowing_Shader/Shaders/Unlit_Lava_Simple.shader" />
   </ItemGroup>
   <ItemGroup>

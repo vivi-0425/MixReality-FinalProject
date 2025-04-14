@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1440
     height: 777
   m_ShowMode: 4
-  m_Title: Hierarchy
+  m_Title: Project
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 100}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 22
+  controlID: 116
   draggingID: 0
 --- !u!114 &3
 MonoBehaviour:
@@ -130,7 +130,7 @@ MonoBehaviour:
   - {fileID: 13}
   - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 3
+  m_LastSelected: 1
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 100}
   m_MaxSize: {x: 16192, y: 16192}
   vertical: 1
-  controlID: 23
+  controlID: 54
   draggingID: 0
 --- !u!114 &10
 MonoBehaviour:
@@ -252,7 +252,7 @@ MonoBehaviour:
   m_MinSize: {x: 200, y: 50}
   m_MaxSize: {x: 16192, y: 8096}
   vertical: 0
-  controlID: 24
+  controlID: 26
   draggingID: 0
 --- !u!114 &11
 MonoBehaviour:
@@ -474,7 +474,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Final_Heaven
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
@@ -482,22 +482,16 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Final_Heaven
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: /Users/jadelaw/Documents/GitHub/MixReality-FinalProject
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-<<<<<<< Updated upstream
-    m_SelectedIDs: 2c6d0000
-    m_LastClickedID: 27948
-    m_ExpandedIDs: 00000000846b000000ca9a3bffffff7f
-=======
-    m_SelectedIDs: ae6a0000
-    m_LastClickedID: 27310
-    m_ExpandedIDs: 000000002069000000ca9a3bffffff7f
->>>>>>> Stashed changes
+    scrollPos: {x: 0, y: 47.5}
+    m_SelectedIDs: 38670000
+    m_LastClickedID: 26424
+    m_ExpandedIDs: 00000000a669000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -525,11 +519,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-<<<<<<< Updated upstream
-    m_ExpandedIDs: 00000000846b0000
-=======
-    m_ExpandedIDs: 0000000020690000
->>>>>>> Stashed changes
+    m_ExpandedIDs: 00000000a6690000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -556,7 +546,7 @@ MonoBehaviour:
   m_ListAreaState:
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
-    m_HadKeyboardFocusLastEvent: 0
+    m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c623000000000000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -671,14 +661,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-<<<<<<< Updated upstream
-      m_SelectedIDs: d8faffff
-      m_LastClickedID: -1320
-=======
-      m_SelectedIDs: 14680000
+      m_SelectedIDs: 486b0000
       m_LastClickedID: 0
->>>>>>> Stashed changes
-      m_ExpandedIDs: 2afbffff
+      m_ExpandedIDs: 62f6ffff06f9fffffafaffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -1163,15 +1148,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< Updated upstream
-    m_Target: {x: -24.216875, y: 14.3, z: -50.1}
+    m_Target: {x: 5.281879, y: 8.621859, z: -1.3235345}
     speed: 2
-    m_Value: {x: -24.216875, y: 14.299999, z: -50.09999}
-=======
-    m_Target: {x: -18.513369, y: 10.56999, z: 1.2959146}
-    speed: 2
-    m_Value: {x: -18.513369, y: 10.56999, z: 1.2959146}
->>>>>>> Stashed changes
+    m_Value: {x: 5.281879, y: 8.621859, z: -1.3235345}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1217,23 +1196,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-<<<<<<< Updated upstream
-    m_Target: {x: 0.22269687, y: -0.5144914, z: 0.14039622, w: 0.816086}
+    m_Target: {x: -0.16760394, y: 0.7856777, z: -0.24201415, w: -0.54411036}
     speed: 2
-    m_Value: {x: -0.22269686, y: 0.5144914, z: -0.14039622, w: -0.816086}
-=======
-    m_Target: {x: -0.15567604, y: 0.6401722, z: -0.13464883, w: -0.740146}
-    speed: 2
-    m_Value: {x: -0.16350135, y: 0.6268645, z: -0.13676713, w: -0.74940175}
->>>>>>> Stashed changes
+    m_Value: {x: -0.16760331, y: 0.78567475, z: -0.24201326, w: -0.54410833}
   m_Size:
-    m_Target: 10
+    m_Target: 18.45449
     speed: 2
-<<<<<<< Updated upstream
-    m_Value: 10.0000305
-=======
-    m_Value: 26.696524
->>>>>>> Stashed changes
+    m_Value: 19.415562
   m_Ortho:
     m_Target: 0
     speed: 2
